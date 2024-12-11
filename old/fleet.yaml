@@ -1,0 +1,4 @@
+helm:
+  chart: external-dns
+  repo: https://charts.bitnami.com/bitnami
+  version: v8.5.0
